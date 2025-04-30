@@ -1,0 +1,235 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\DrawableGameObject.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(28,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(29,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(30,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(72,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(82,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(90,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\TerrainGenDS.h(98,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\DrawableGameObject.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\HydraulicErosion.h(59,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\HydraulicErosion.h(59,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\HydraulicErosion.h(69,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\HydraulicErosion.h(69,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(271,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(271,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(272,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(272,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(277,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(277,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(278,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(278,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(301,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(301,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(302,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(302,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(306,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(306,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(307,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(307,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(368,46): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(482,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(491,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(497,136): warning C4100: 'floorColour': unreferenced formal parameter
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(497,35): warning C4100: 'endX': unreferenced formal parameter
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(497,23): warning C4100: 'startX': unreferenced formal parameter
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(533,9): warning C4459: declaration of 'height' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(146,7):
+      see declaration of 'height'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(534,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(535,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(559,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(560,135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(574,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(574,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(574,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(575,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(631,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(672,10): warning C4459: declaration of 'width' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(147,7):
+      see declaration of 'width'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(673,10): warning C4459: declaration of 'height' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(146,7):
+      see declaration of 'height'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(991,24): warning C4459: declaration of 'width' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(147,7):
+      see declaration of 'width'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(991,35): warning C4459: declaration of 'height' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(146,7):
+      see declaration of 'height'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(993,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(995,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(996,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(996,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(996,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(997,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1043,29): warning C4459: declaration of 'n_Perlin' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(123,25):
+      see declaration of 'n_Perlin'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1044,29): warning C4459: declaration of 'n_Simplex' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(124,25):
+      see declaration of 'n_Simplex'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1045,29): warning C4459: declaration of 'n_Cellular' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(125,25):
+      see declaration of 'n_Cellular'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1047,31): warning C4459: declaration of 'n_texture' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(127,27):
+      see declaration of 'n_texture'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1047,31): warning C4189: 'n_texture': local variable is initialized but not referenced
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1066,10): warning C4459: declaration of 'rect' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(190,6):
+      see declaration of 'rect'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1113,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1122,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1122,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1140,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1141,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1142,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1143,16): warning C4244: 'initializing': conversion from 'INT' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1156,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1162,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1162,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1169,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1174,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1174,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1183,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1183,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1221,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1222,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1223,16): warning C4244: 'initializing': conversion from 'INT' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1234,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1234,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1265,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1265,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1268,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1268,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1276,42): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1276,35): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1307,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1308,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1309,16): warning C4244: 'initializing': conversion from 'INT' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1320,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1320,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1330,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1330,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1497,24): warning C4244: 'initializing': conversion from 'INT' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1499,86): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1499,61): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1531,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1591,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1591,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1835,29): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1836,30): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1885,9): warning C4459: declaration of 'width' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(147,7):
+      see declaration of 'width'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1886,9): warning C4459: declaration of 'height' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(146,7):
+      see declaration of 'height'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1900,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1912,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1925,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1939,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1939,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1960,23): warning C4459: declaration of 'height' hides global declaration
+      C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(146,7):
+      see declaration of 'height'
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2128,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2129,36): warning C4244: '=': conversion from 'int' to 'uint16_t', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2182,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2218,20): warning C4244: 'initializing': conversion from 'INT' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2220,82): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2220,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2252,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2315,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2315,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2316,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2345,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2367,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2367,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2368,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2376,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2395,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2479,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2479,9): warning C4189: 'tempwidth': local variable is initialized but not referenced
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2490,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2525,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2588,18): warning C4189: 'isHeld': local variable is initialized but not referenced
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2589,18): warning C4189: 'isReleased': local variable is initialized but not referenced
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(2821,30): warning C4100: 'deltaTime': unreferenced formal parameter
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits(1705,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits(1705,98):
+      the template instantiation context (the oldest one first) is
+          C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(559,55):
+          see reference to function template instantiation 'std::thread::thread<void(__cdecl &)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int),int&,int&,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>>*,bool&,bool&,float&,float,bool,int&,0>(_Fn,int &,int &,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *&&,bool &,bool &,float &,float &&,bool &&,int &)' being compiled
+          with
+          [
+              _Fn=void (__cdecl &)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(93,9):
+          see reference to function template instantiation 'void std::thread::_Start<void(__cdecl &)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int),int&,int&,_Ty,bool&,bool&,float&,float,bool,int&>(_Fn,int &,int &,_Ty &&,bool &,bool &,float &,float &&,bool &&,int &)' being compiled
+          with
+          [
+              _Ty=std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,
+              _Fn=void (__cdecl &)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(76,40):
+          see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3,4,5,6,7,8,9>(std::integer_sequence<size_t,0,1,2,3,4,5,6,7,8,9>) noexcept)(void *) noexcept' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(67,17):
+          see reference to function template instantiation 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3,4,5,6,7,8,9>(void *) noexcept' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\thread(60,14):
+          see reference to function template instantiation 'void std::invoke<void(__cdecl *)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int),int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>>*,bool,bool,float,float,bool,int>(_Callable &&,_Ty1 &&,int &&,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *&&,bool &&,bool &&,float &&,float &&,bool &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl *)(int,int,std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> *,bool,bool,float,int,bool,int),
+              _Ty1=int
+          ]
+  
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1734,1): warning C4702: unreachable code
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1718,1): warning C4701: potentially uninitialized local variable 'filterList' used
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1718,1): warning C4703: potentially uninitialized local pointer variable 'filterList' used
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1749,1): warning C4702: unreachable code
+C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\FrameworkDX11\main.cpp(1759,1): warning C4702: unreachable code
+  FrameworkDX11.vcxproj -> C:\Users\camed\OneDrive\Documents\GitHub\Disertation_Project\Tool\Build\FrameworkDX11.exe
